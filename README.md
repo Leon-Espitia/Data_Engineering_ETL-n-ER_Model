@@ -22,7 +22,7 @@
 
 ### Prerequisites
 
-- Basics knwledge of python and sql pragramming and consulting languages
+- Basics knowledge of python and sql pragramming and consulting languages
 
 
 ## Authors
@@ -33,11 +33,6 @@
 - Twitter: [@LenEspitia1](https://twitter.com/LenEspitia1)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/leon-espitia/)
 
-
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
 
 
 ## Show your support
