@@ -1,4 +1,4 @@
-![]([https://img.shields.io/badge/](https://images.app.goo.gl/JFKXv5nVLnFDJXcN7))
+[https://img.shields.io/badge/](https://images.app.goo.gl/JFKXv5nVLnFDJXcN7)
 
 
 
