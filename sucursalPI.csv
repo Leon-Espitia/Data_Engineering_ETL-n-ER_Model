@@ -1,4 +1,4 @@
-producto_id,comercio_id,bandera_id,banderaDescripcion,comercioRazonSocial,provincia,localidad,direccion,lat,lng,sucursalNombre,sucursalTipo
+sucursal_id,comercio_id,bandera_id,banderaDescripcion,comercioRazonSocial,provincia,localidad,direccion,lat,lng,sucursalNombre,sucursalTipo
 1-1-7,1,1,Super MAMI,Dinosaurio S.A.,AR-X,SALSIPUEDES,E53 1011 None,-31.126667,-64.29525,Super Mami 4,Hipermercado
 10-1-1,10,1,Hipermercado Carrefour,INC S.A.,AR-B,San Isidro,Bernardo De Irigoyen 2647,-34.491345,-58.589025,San Isidro,Hipermercado
 10-1-10,10,1,Hipermercado Carrefour,INC S.A.,AR-B,Hurlingham,Av. Vergara 1910,-34.62061,-58.633769,Villa Tesei,Hipermercado
