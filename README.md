@@ -13,6 +13,7 @@
 
 - Python (numpy, pandas, openpyxls, fastparket)
 - MySql (Workbench)
+- VSCode
 - draw.io
 
 ## Live Demo (Spanish)
