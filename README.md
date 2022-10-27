@@ -1,2 +1,2 @@
 # ETL-milestone
-This is a training engineering data project suggested by "Henry, Inc" as fundamental in the learning process way.
+This project is about an engineering data project, that is required as fundamental in the "Henry" datascience academy learning process way.
