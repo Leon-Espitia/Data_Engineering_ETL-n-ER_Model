@@ -11,7 +11,7 @@
 
 ## Built With
 
-- Python (numpy, pandas, openpyxls, fastparket)
+- Python (numpy, pandas, openpyxls, fastparqet)
 - MySql (Workbench)
 - VSCode
 - draw.io
