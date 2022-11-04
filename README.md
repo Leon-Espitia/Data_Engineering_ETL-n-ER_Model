@@ -12,7 +12,6 @@
 ## Images related
 
 <img src="img/ETL.png" width = 300>       <img src="img/DER.png" width = 400><br>
-**Nota**: Esta imagen la adjunte fuera de tiempo ya que olvide mostrarla (DER) durante el video de sustentación<br> Sin embargo, @Francisco Negrete me permitio ponerla sin penalización.
 
 ## Built With
 
@@ -20,10 +19,6 @@
 - MySql (Workbench)
 - VSCode
 - draw.io
-
-## Live Demo (Spanish)
-
-Supporting video (https://youtu.be/siHfgnQGSRg)
 
 ### Prerequisites
 
@@ -37,7 +32,6 @@ Supporting video (https://youtu.be/siHfgnQGSRg)
 - GitHub: [@Leon-Espitia](https://github.com/Leon-Espitia)
 - Twitter: [@LenEspitia1](https://twitter.com/LenEspitia1)
 - LinkedIn: [leon-espitia](https://www.linkedin.com/in/leon-espitia/)
-
 
 
 ## Show your support
