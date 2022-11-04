@@ -20,7 +20,7 @@
 - VSCode
 - draw.io
 
-### Prerequisites
+## Prerequisites
 
 - Basics knowledge of python and sql pragramming/consulting languages
 
