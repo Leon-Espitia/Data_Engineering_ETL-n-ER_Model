@@ -3,7 +3,7 @@
 
   During the previously mentioned project, I have implemented several data science concepts regarding cleansing and consulting technics I learned during the **Henry's bootcamp**.
 
-  *The target* is to apply the three-phases in a ETL process. The primitive data set were provided for Henry academy in different type of files. (.xlsx, .txt, .parquet, .csv)
+  *The main goal is to apply the three-phases in a ETL process. The primitive data set were provided for Henry academy in different type of files. (.xlsx, .txt, .parquet, .csv)
 
   The **ETL** path that I followed was initially download the raw documents into my locall machine, then by using a visualization platform (VSCode) I uploaded the documents for starting the visual analysis and recognition stage, identifying nulls -NaN -outliers -usefull  registers and columns. 
 
@@ -30,7 +30,6 @@
 👤 **Leon Yohel Espitia**
 
 - GitHub: [@Leon-Espitia](https://github.com/Leon-Espitia)
-- Twitter: [@LenEspitia1](https://twitter.com/LenEspitia1)
 - LinkedIn: [leon-espitia](https://www.linkedin.com/in/leon-espitia/)
 
 
