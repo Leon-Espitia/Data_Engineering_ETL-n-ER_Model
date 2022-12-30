@@ -1,4 +1,4 @@
-# ETL-milestone
+# ETL and ER_Model milestone
   This project is based on **engineering data** and it is required as fundamental step in **"Henry"** data science academy.
 
   During the previously mentioned project, I have implemented several data science concepts regarding cleansing and consulting technics I learned during the **Henry's bootcamp**.
